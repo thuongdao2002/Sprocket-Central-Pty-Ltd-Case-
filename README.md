@@ -11,6 +11,7 @@ Customer Addresses
 Transactions data
 
 Task: 
+
 Data Quality Assessment
 
 Data Insights
